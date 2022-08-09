@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-  <img src="./GALION.png" alt="G4L10NL0G0" />
+  <img src="https://github.com/GalionSec/.github/profile/GALION.png" alt="G4L10NL0G0" />
 </p>
 <hr>
 
